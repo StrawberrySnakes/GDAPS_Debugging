@@ -81,7 +81,7 @@
             //   like so:  Charlotte becomes harlotteC
             Console.WriteLine("Lastly, tell me your name!");
             userName = Console.ReadLine().Trim();                           // Emily
-            newName = userName.Substring(userName.Length) + userName[1];    // milyE
+            newName = userName.Substring(1) + userName[0];    // milyE
             Console.WriteLine("I will rename you " + newName + "!");
             Console.WriteLine();
 
