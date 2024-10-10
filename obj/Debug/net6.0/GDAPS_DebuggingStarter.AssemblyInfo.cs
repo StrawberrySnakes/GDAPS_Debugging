@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GDAPS_DebuggingStarter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2c49a9a2c8d9e5f78ea04b821ff7323a771f910")]
 [assembly: System.Reflection.AssemblyProductAttribute("GDAPS_DebuggingStarter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GDAPS_DebuggingStarter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

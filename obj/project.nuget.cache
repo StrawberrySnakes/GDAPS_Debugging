@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "HOm1pqmN5EkDYSX6Gb5q68s6ZRc/dqZDYKugSQ5sZS39+lKfIkUcoIgHQnwgYJmwT4hidUR7w9QGL9A2OHWboQ==",
+  "dgSpecHash": "SZBXGeV2Hbo=",
   "success": true,
-  "projectFilePath": "D:\\Erin\\Dropbox\\105 Regular - Fall 2023\\Lectures\\Week 4 - Debugging, Version Control, Conditionals\\Day 2 - Debugging\\GDAPS_DebuggingStarter\\GDAPS_DebuggingStarter.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Profiles\\djs9826\\Downloads\\group\\GDAPS_Debugging\\GDAPS_DebuggingStarter.csproj",
+  "expectedPackageFiles": [
+    "D:\\Profiles\\djs9826\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.32\\microsoft.windowsdesktop.app.ref.6.0.32.nupkg.sha512",
+    "D:\\Profiles\\djs9826\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.32\\microsoft.netcore.app.ref.6.0.32.nupkg.sha512",
+    "D:\\Profiles\\djs9826\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.32\\microsoft.aspnetcore.app.ref.6.0.32.nupkg.sha512",
+    "D:\\Profiles\\djs9826\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.32\\microsoft.netcore.app.host.win-x64.6.0.32.nupkg.sha512"
+  ],
   "logs": []
 }
