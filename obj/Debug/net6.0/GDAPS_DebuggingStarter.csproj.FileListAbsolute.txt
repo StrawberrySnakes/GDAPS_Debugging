@@ -3,3 +3,18 @@ D:\Erin\Dropbox\105 Regular - Fall 2023\Lectures\Week 4 - Debugging, Version Con
 D:\Erin\Dropbox\105 Regular - Fall 2023\Lectures\Week 4 - Debugging, Version Control, Conditionals\Day 2 - Debugging\GDAPS_DebuggingStarter\obj\Debug\net6.0\GDAPS_DebuggingStarter.AssemblyInfoInputs.cache
 D:\Erin\Dropbox\105 Regular - Fall 2023\Lectures\Week 4 - Debugging, Version Control, Conditionals\Day 2 - Debugging\GDAPS_DebuggingStarter\obj\Debug\net6.0\GDAPS_DebuggingStarter.AssemblyInfo.cs
 D:\Erin\Dropbox\105 Regular - Fall 2023\Lectures\Week 4 - Debugging, Version Control, Conditionals\Day 2 - Debugging\GDAPS_DebuggingStarter\obj\Debug\net6.0\GDAPS_DebuggingStarter.csproj.CoreCompileInputs.cache
+D:\Profiles\djs9826\Downloads\group\GDAPS_Debugging\obj\Debug\net6.0\GDAPS_DebuggingStarter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Profiles\djs9826\Downloads\group\GDAPS_Debugging\obj\Debug\net6.0\GDAPS_DebuggingStarter.AssemblyInfoInputs.cache
+D:\Profiles\djs9826\Downloads\group\GDAPS_Debugging\obj\Debug\net6.0\GDAPS_DebuggingStarter.AssemblyInfo.cs
+D:\Profiles\djs9826\Downloads\group\GDAPS_Debugging\obj\Debug\net6.0\GDAPS_DebuggingStarter.csproj.CoreCompileInputs.cache
+D:\Profiles\djs9826\Downloads\group\GDAPS_Debugging\obj\Debug\net6.0\GDAPS_DebuggingStarter.sourcelink.json
+D:\Profiles\djs9826\Downloads\group\GDAPS_Debugging\bin\Debug\net6.0\GDAPS_DebuggingStarter.exe
+D:\Profiles\djs9826\Downloads\group\GDAPS_Debugging\bin\Debug\net6.0\GDAPS_DebuggingStarter.deps.json
+D:\Profiles\djs9826\Downloads\group\GDAPS_Debugging\bin\Debug\net6.0\GDAPS_DebuggingStarter.runtimeconfig.json
+D:\Profiles\djs9826\Downloads\group\GDAPS_Debugging\bin\Debug\net6.0\GDAPS_DebuggingStarter.dll
+D:\Profiles\djs9826\Downloads\group\GDAPS_Debugging\bin\Debug\net6.0\GDAPS_DebuggingStarter.pdb
+D:\Profiles\djs9826\Downloads\group\GDAPS_Debugging\obj\Debug\net6.0\GDAPS_DebuggingStarter.dll
+D:\Profiles\djs9826\Downloads\group\GDAPS_Debugging\obj\Debug\net6.0\refint\GDAPS_DebuggingStarter.dll
+D:\Profiles\djs9826\Downloads\group\GDAPS_Debugging\obj\Debug\net6.0\GDAPS_DebuggingStarter.pdb
+D:\Profiles\djs9826\Downloads\group\GDAPS_Debugging\obj\Debug\net6.0\GDAPS_DebuggingStarter.genruntimeconfig.cache
+D:\Profiles\djs9826\Downloads\group\GDAPS_Debugging\obj\Debug\net6.0\ref\GDAPS_DebuggingStarter.dll
