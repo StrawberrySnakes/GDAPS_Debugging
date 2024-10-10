@@ -1,0 +1,5 @@
+D:\Erin\Dropbox\105 Regular - Fall 2023\Lectures\Week 4 - Debugging, Version Control, Conditionals\Day 2 - Debugging\GDAPS_DebuggingStarter\obj\Debug\net6.0\GDAPS_DebuggingStarter.csproj.AssemblyReference.cache
+D:\Erin\Dropbox\105 Regular - Fall 2023\Lectures\Week 4 - Debugging, Version Control, Conditionals\Day 2 - Debugging\GDAPS_DebuggingStarter\obj\Debug\net6.0\GDAPS_DebuggingStarter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Erin\Dropbox\105 Regular - Fall 2023\Lectures\Week 4 - Debugging, Version Control, Conditionals\Day 2 - Debugging\GDAPS_DebuggingStarter\obj\Debug\net6.0\GDAPS_DebuggingStarter.AssemblyInfoInputs.cache
+D:\Erin\Dropbox\105 Regular - Fall 2023\Lectures\Week 4 - Debugging, Version Control, Conditionals\Day 2 - Debugging\GDAPS_DebuggingStarter\obj\Debug\net6.0\GDAPS_DebuggingStarter.AssemblyInfo.cs
+D:\Erin\Dropbox\105 Regular - Fall 2023\Lectures\Week 4 - Debugging, Version Control, Conditionals\Day 2 - Debugging\GDAPS_DebuggingStarter\obj\Debug\net6.0\GDAPS_DebuggingStarter.csproj.CoreCompileInputs.cache
